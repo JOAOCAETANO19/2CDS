@@ -8,7 +8,7 @@ body{
 }
 header{
   background-color: #424e61;
-  color: white;
+  color: #ffffff;
   width: 100%;
   padding: 20px;
 }
@@ -69,7 +69,7 @@ header{
 }
 .escola{
   background-image: linear-grandient(#40A2E3,#7FC2EF);
-  color: white;
+  color: #000000;
   display: flex;
   justify-content: center;
   padding: 24px 0;
