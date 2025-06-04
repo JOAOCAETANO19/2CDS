@@ -69,7 +69,7 @@ header{
 }
 .escola{
   background-image: linear-grandient(#40A2E3,#7FC2EF);
-  color: hwb(0 0% 100%);
+  color: lab(100% 0.01 -0.01);
   display: flex;
   justify-content: center;
   padding: 24px 0;
