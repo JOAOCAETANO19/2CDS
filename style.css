@@ -1,4 +1,4 @@
-*{
+ *{
   margin: 0;
   padding: 0;
   box-sizing: border-box;
@@ -86,7 +86,7 @@ header{
 .logo_rodape{
   height: 80px;
   padding: 12px 0;
-}a
+}
 .link{
   color: black;
   text-decoration: color(black)
