@@ -7,11 +7,12 @@ body{
   front-family: "Pppins, sans-serif;
 }
 header{
-  background-color: #424e61;
+background-color: #424e61;
   color: white;
   width: 100%;
   padding: 20px;
 }
+
 .cabecalho-itens{
   max-widht: 1980px;
   margin: 0 auto;
