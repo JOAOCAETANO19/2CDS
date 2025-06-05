@@ -13,8 +13,8 @@ header{
   color: white;
   width: 100%;
   padding: 20px;
-}
 
+}
 .cabecalho-itens{
   max-width: 1980px;
   margin: 0 auto;
@@ -23,7 +23,7 @@ header{
   justify-content: center;
 }
 .cabecalho-imagem{
-  width: 10%;
+  width: 6%;
   display: flex;
   justify-content: flex-start;
   align-items: center;
