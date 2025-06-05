@@ -1,5 +1,5 @@
 *{
-  margian: 0;
+  margin: 0;
   padding: 0;
   box-sizing: border-box;
 }
@@ -16,14 +16,14 @@ header{
 }
 
 .cabecalho-itens{
-  max-widht: 1980px;
+  max-width: 1980px;
   margin: 0 auto;
   display: flex;
   align-items: center;
   justify-content: center;
 }
 .cabecalho-imagem{
-  width: 10%
+  width: 10%;
   display: flex;
   justify-content: flex-start;
   align-items: center;
@@ -59,7 +59,7 @@ header{
   padding: 4px 8px;
 }
 .estudante{
-  background-image: background-color(#faae43);
+  background-image; background-color(#faae43);
   padding: 24px 0;
 }
 .estudante.div{
